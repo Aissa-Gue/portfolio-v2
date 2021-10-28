@@ -1,8 +1,14 @@
 <?php
-$servername = "localhost";
-$username = "root";
-$password = "";
-$dbname = "portfolio";
+//$servername = "localhost";
+//$username = "root";
+//$password = "";
+//$dbname = "portfolio";
+
+$servername = "sql303.epizy.com";
+$username = "epiz_29025327";
+$password = "XaeTiDLiCPhpGA";
+$dbname = "epiz_29025327_portfolio";
+
 
 // Create connection
 $conn = mysqli_connect($servername, $username, $password, $dbname);
