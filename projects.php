@@ -1,5 +1,5 @@
 <?php
-$sql = "SELECT * FROM projects";
+$sql = "SELECT * FROM projects order by id DESC";
 $result = mysqli_query($conn, $sql);
 ?>
 
