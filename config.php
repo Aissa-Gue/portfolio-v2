@@ -4,10 +4,15 @@
 //$password = "";
 //$dbname = "portfolio";
 
-$servername = "sql303.epizy.com";
-$username = "epiz_29025327";
-$password = "XaeTiDLiCPhpGA";
-$dbname = "epiz_29025327_portfolio";
+//$servername = "sql303.epizy.com";
+//$username = "epiz_29025327";
+//$password = "XaeTiDLiCPhpGA";
+//$dbname = "epiz_29025327_portfolio";
+
+$servername = "remotemysql.com";
+$username = "rBiCTtBdYT";
+$password = "JVzLRfoa95";
+$dbname = "rBiCTtBdYT";
 
 // Create connection
 $conn = mysqli_connect($servername, $username, $password, $dbname);
