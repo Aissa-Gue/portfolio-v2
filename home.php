@@ -29,7 +29,7 @@
                         Full stack web developer,
                         <br> I design and develop websites and web applications
                     </p>
-                    <a class="btn btn-danger btn-lg" href="#projects">Explore my projects</a>
+                    <a class="btn btn-danger btn-lg mb-2" href="#projects">Explore my projects</a>
                     <a class="btn btn-dark mb-1" href="#contact">Let's talk</a>
                 </div>
             </div>
