@@ -68,13 +68,13 @@ $result = mysqli_query($conn, $sql);
                         </p>
 
                         <div class="text-end">
-                            <a href="project_preview.php?id=<?php echo $id ?>" class="btn btn-danger">
+                            <a href="project_preview.php?id=<?php echo $id ?>" class="btn btn-danger mb-1">
                                 <i class="fas fa-info-circle"></i> Details
                             </a>
-                            <a href="<?php echo $url ?>" class="btn btn-success" target="_blank">
+                            <a href="<?php echo $url ?>" class="btn btn-success mb-1" target="_blank">
                                 <i class="fas fa-magic"></i> Live Preview
                             </a>
-                            <a href="<?php echo $github ?>" class="btn btn-dark" target="_blank">
+                            <a href="<?php echo $github ?>" class="btn btn-dark mb-1" target="_blank">
                                 <i class="fab fa-github"></i>
                             </a>
                         </div>
