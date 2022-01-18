@@ -9,10 +9,10 @@
 //$password = "XaeTiDLiCPhpGA";
 //$dbname = "epiz_29025327_portfolio";
 
-$servername = "remotemysql.com";
-$username = "rBiCTtBdYT";
-$password = "JVzLRfoa95";
-$dbname = "rBiCTtBdYT";
+$servername = "sql11.freemysqlhosting.net";
+$username = "sql11466518";
+$password = "Vx5DSahGNZ";
+$dbname = "sql11466518";
 
 // Create connection
 $conn = mysqli_connect($servername, $username, $password, $dbname);
