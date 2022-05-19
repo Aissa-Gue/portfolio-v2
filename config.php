@@ -1,18 +1,9 @@
 <?php
-// $servername = "localhost";
-// $username = "root";
-// $password = "";
-// $dbname = "portfolio";
 
-// $servername = "sql303.epizy.com";
-// $username = "epiz_29025327";
-// $password = "XaeTiDLiCPhpGA";
-// $dbname = "epiz_29025327_portfolio";
-
-// $servername = "sql11.freemysqlhosting.net";
-// $username = "sql11466518";
-// $password = "Vx5DSahGNZ";
-// $dbname = "sql11466518";
+//$servername = "localhost";
+//$username = "root";
+//$password = "";
+//$dbname = "portfolio";
 
 $servername = "bi0yof0wtjjaufawh5gh-mysql.services.clever-cloud.com";
 $username = "ufojxqz89ew3pkjm";
