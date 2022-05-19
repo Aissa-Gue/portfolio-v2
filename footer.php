@@ -34,7 +34,7 @@
     <div class="text-center p-3" style="background-color: rgba(0, 0, 0, 0.4);">
         Designed And Developed By
         <a class="text-white" href="#">Aissa Guellil </a>
-        © 2021
+        © 2022
     </div>
     <!-- Copyright -->
 </footer>
